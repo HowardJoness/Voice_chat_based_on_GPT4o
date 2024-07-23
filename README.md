@@ -1,4 +1,7 @@
 # Voice chat based on GPT4o
+
+English | [中文](https://github.com/HowardJoness/Voice_chat_based_on_GPT4o/blob/main/README_CN.md)
+
 When i have nothing to do, i wrote this project😂
 
 ***
