@@ -1,6 +1,8 @@
 # 基于 GPT4o 的语音助手
+
+[English](https://github.com/HowardJoness/Voice_chat_based_on_GPT4o/blob/main/README.md) | 中文
+
 无聊时随笔写下の产物
-English | 简体中文
 ***
 
 ## 这个项目是什么
