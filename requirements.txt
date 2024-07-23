@@ -1,0 +1,8 @@
+loguru==0.7.2
+numpy==2.0.1
+openai==0.28.1
+opencv_python==4.10.0.84
+psutil==6.0.0
+PyAudio==0.2.14
+pygame==2.6.0
+Requests==2.32.3
